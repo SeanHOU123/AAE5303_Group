@@ -2,13 +2,13 @@
 
 Hey there, awesome students! 👋
 
-This is your chance to introduce your amazing team to everyone! We've created a template (`GROUP_INFO.md`) to help you get started, but remember - **you're free to be creative!** 🎨
+This is your chance to introduce your amazing team to everyone! We've created a template (`GROUP_INFO_demo.md`) to help you get started, but remember - **you're free to be creative!** 🎨
 
 ---
 
 ## 🎯 What You MUST Include
 
-While we encourage creativity, please make sure your `GROUP_INFO.md` includes at least these essentials:
+While we encourage creativity, please make sure your `GROUP_INFO_demo.md` includes at least these essentials:
 
 ### 1. 📛 Group Name
 Tell us your awesome team name! Be creative, be fun, be YOU! 
@@ -131,7 +131,7 @@ Everything else? **Totally optional!** 🎊
 ## 🆘 Need Help?
 
 If you're stuck or have questions:
-- Check out the example in `GROUP_INFO.md` for reference
+- Check out the example in `GROUP_INFO_demo.md` for reference
 - Ask your instructor or TA
 - Remember: as long as you include the essentials, you're good to go! ✨
 
@@ -139,7 +139,7 @@ If you're stuck or have questions:
 
 ## 🎉 Ready to Create?
 
-Go ahead and open `GROUP_INFO.md` and start creating your masterpiece! 
+Go ahead and open `GROUP_INFO_demo.md` and start creating your masterpiece! 
 
 **Remember: Be creative, be yourself, and most importantly - have fun!** 🎊✨
 
