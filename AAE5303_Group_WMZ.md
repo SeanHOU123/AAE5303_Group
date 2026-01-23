@@ -1,7 +1,7 @@
 # Group Information
 
 ## Group Name
-**AAE5303_Team**
+**我們組 (WMZ)**
 
 ## Why This Name?
 We chose the name "AAE5303_Team" because it directly reflects our course code (AAE5303), which represents our shared academic journey. The name emphasizes our collaborative spirit and commitment to working together as a unified team throughout this project.
