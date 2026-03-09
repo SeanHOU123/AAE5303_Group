@@ -9,7 +9,7 @@
 - **Name:** [LIU Xiaolu]
 - **About Me:** [Willing to learn something and be more creative through this courses]
 - **(individual) Assignment 1:** [https://github.com/LIUXiaolu424/PolyU-AAE5303-assignment-1]
-- **(individual) Assignment 2:** [https://github.com/yourname/assignment2]
+- **(individual) Assignment 2:** [https://github.com/LIUXiaolu424/AAE5303_assignment2_orbslam3]
 
 ### Member 2
 - **Student ID:** [25053849G]
