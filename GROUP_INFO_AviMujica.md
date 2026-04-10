@@ -43,7 +43,7 @@ Emotions may be unstable, but the system remains under control.
 - **(group) Final project:** https://github.com/F1u0rite/final-project
 - **VLFM:** https://github.com/F1u0rite/my_vlfm
 - **Opensplating:** https://github.com/billyTryToCode
-- **U-net:** https://github.com/BHBAllen
+- **U-net:** https://github.com/BHBAllen/vlmaps-hm3d
 
 Up to 3 members~
 ---
